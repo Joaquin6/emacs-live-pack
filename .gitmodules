@@ -1,0 +1,9 @@
+[submodule "lib/powerline"]
+	path = lib/powerline
+	url = git@github.com:Joaquin6/powerline.git
+[submodule "lib/org-reveal"]
+	path = lib/org-reveal
+	url = git@github.com:Joaquin6/org-reveal.git
+[submodule "lib/emms"]
+	path = lib/emms
+	url = git://git.sv.gnu.org/emms.git
